@@ -25,7 +25,6 @@
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 
-<img align="left" alt="Java" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 
 
