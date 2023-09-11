@@ -34,6 +34,8 @@
 
 ### 📊 Stats
 
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shehab-Hegab&show_icons=true&theme=gruvbox)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehab-hegab&show_icons=true&locale=en&layout=compact" alt="shehab-hegab" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehab-hegab&show_icons=true&locale=en" alt="shehab-hegab" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehab-hegab&" alt="shehab-hegab" /></p>
