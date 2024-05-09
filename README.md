@@ -20,7 +20,7 @@
 
 - Mail **shehabsedm@gmail.com**
 - whatsapp **01153544745**
-- resume:https  drive.google.com/file/d/1DYJhdSoAMD4vdiHRFMJv5xIXM9QC5jJC/view?usp=drive_link
+- resume:https  **drive.google.com/file/d/1DYJhdSoAMD4vdiHRFMJv5xIXM9QC5jJC/view?usp=drive_link**
 ##
 
 
