@@ -135,6 +135,6 @@
 - **Programming Languages**: C, C++, C#, Dart, Java, JavaScript, MATLAB, Python
 - **Database Management**: Microsoft SQL Server, Oracle, Pandas
 - **Version Control**: Git
-- - **Mobile Development**: Android, Flutter
+- **Mobile Development**: Android, Flutter
 - **Design and Prototyping**: Adobe Illustrator, Adobe Photoshop, Adobe XD
 - **IoT and Hardware**: Arduino, Qt
