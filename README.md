@@ -11,16 +11,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehab-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="shehab-hegab" /> </p>
 
-###
+##
 
 
   
 <a href="https://linkedin.com/in/shehab hegab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab hegab" height="30" width="40" /></a>
 </p>
 
-- Mail **shehabsedm@gmail.com**
-- whatsapp **01153544745**
-- resume:https  **https://drive.google.com/file/d/10ghBHTCuj-7CYT0P3BBtuVj0B7yvXhYx/view?usp=sharing**
+- 📧 Email: **shehabsedm@gmail.com**
+- 📞 WhatsApp: **01153544745**
+- 📄 [Resume](https://drive.google.com/file/d/10ghBHTCuj-7CYT0P3BBtuVj0B7yvXhYx/view?usp=sharing)
+
 ##
 
 
