@@ -1,22 +1,36 @@
-# 🏄‍♂️ Shehab Mohamed
+# 🏄‍♂️ Shehab
+
 
 <h1 align="center">Hi 👋, I'm Shehab Mohamed</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
+<h3 align="center">A passionate software engineering from Egypt</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shehab-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="shehab-hegab" />
-  <a href="https://linkedin.com/in/shehab-hegab" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab-hegab" height="30" width="40" /></a>
+<img align="right" alt="coding" width="800" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehab-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="shehab-hegab" /> </p>
+
+##
+
+
+  
+<a href="https://linkedin.com/in/shehab hegab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab hegab" height="30" width="40" /></a>
 </p>
 
 - 📧 Email: **shehabsedm@gmail.com**
 - 📞 WhatsApp: **01153544745**
 - 📄 [Resume](https://drive.google.com/file/d/10ghBHTCuj-7CYT0P3BBtuVj0B7yvXhYx/view?usp=sharing)
 
----
+##
 
-## 🧰 Languages and Tools:
+
+<h3 align="left">🧰 Languages and Tools:</h3>
+
+
+
+
+# Project Title
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -114,9 +128,7 @@
   </a>
 </p>
 
----
-
-## 🌟 Technologies Used
+## Technologies Used
 
 - **Machine Learning and Data Science**: PyTorch, TensorFlow
 - **Frontend Development**: Angular, AngularJS, Bootstrap, CSS3, HTML5, React, React Native
@@ -124,6 +136,6 @@
 - **Programming Languages**: C, C++, C#, Dart, Java, JavaScript, MATLAB, Python
 - **Database Management**: Microsoft SQL Server, Oracle, Pandas
 - **Version Control**: Git
-- **Mobile Development**: Android, Flutter
+- - **Mobile Development**: Android, Flutter
 - **Design and Prototyping**: Adobe Illustrator, Adobe Photoshop, Adobe XD
 - **IoT and Hardware**: Arduino, Qt
