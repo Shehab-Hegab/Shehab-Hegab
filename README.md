@@ -169,7 +169,7 @@
 
 ## Technologies Used
 
-- **Machine Learning and Data Science**: PyTorch, TensorFlow
+- **Machine Learning and Data Science**: PyTorch, TensorFlow, OpenCV, Scikit-learn, Seaborn
 - **Frontend Development**: Angular, AngularJS, Bootstrap, CSS3, HTML5, React, React Native
 - **Backend Development**: Django, Node.js, PHP, Python
 - **Programming Languages**: C, C++, C#, Dart, Java, JavaScript, MATLAB, Python
