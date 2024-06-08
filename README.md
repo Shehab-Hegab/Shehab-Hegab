@@ -1,20 +1,20 @@
 # 🏄‍♂️ Shehab
 
-
 <h1 align="center">Hi 👋, I'm Shehab Mohamed</h1>
-<h3 align="center">A passionate  of machine learning and AI</h3>
-
+<h3 align="center">A passionate of machine learning and AI</h3>
 
 <img align="right" alt="coding" width="800" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehab-hegab&label=Profile%20views&color=0e75b6&style=flat" alt="shehab-hegab" /> </p>
 
 ###
 
-
-  
-<a href="https://linkedin.com/in/shehab hegab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab hegab" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/shehab-hegab-5303491b7/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab hegab" height="30" width="40" />
+  </a>
 </p>
 
 - 📧 Email: **shehabsedm@gmail.com**
@@ -22,6 +22,7 @@
 - 📄 [Resume](https://drive.google.com/file/d/10ghBHTCuj-7CYT0P3BBtuVj0B7yvXhYx/view?usp=sharing)
 
 ##
+
 
 
 <h3 align="left">🧰 Languages and Tools:</h3>
