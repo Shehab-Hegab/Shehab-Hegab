@@ -19,7 +19,7 @@
 
 - 📧 Email: **shehabsedm@gmail.com**
 - 📞 WhatsApp: **01153544745**
-- 📄 [Resume](https://drive.google.com/file/d/10ghBHTCuj-7CYT0P3BBtuVj0B7yvXhYx/view?usp=sharing)
+- 📄 [Resume]([https://drive.google.com/file/d/10ghBHTCuj-7CYT0P3BBtuVj0B7yvXhYx/view?usp=sharing](https://drive.google.com/file/d/1KWqhhL42cB-z1ZUts4rbR8QbTgI_qk0h/view?usp=drive_link))
 
 ##
 
