@@ -2,11 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Shehab Mohamed 🖤🇵🇸</h1>
 
-
-
-
 <h3 align="center">A passionate of machine learning and AI</h3>
 
+
+##
 
 
 
