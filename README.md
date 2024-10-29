@@ -34,7 +34,8 @@
 
 - 📧 Email: **shehabhegab20@gmail.com**
 - 📞 WhatsApp: **+201153544745**
-- 📄 [Resume]([https://drive.google.com/file/d/1WCPtfQS7KXsG44OJGntsjyeq-jsYn3sZ/view?usp=sharing](https://drive.google.com/file/d/1WCPtfQS7KXsG44OJGntsjyeq-jsYn3sZ/view?usp=drive_link)) 
+- 📄 [Resume](https://drive.google.com/file/d/1WCPtfQS7KXsG44OJGntsjyeq-jsYn3sZ/view?usp=sharing)
+
 
 ##
 
