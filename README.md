@@ -36,12 +36,17 @@
 
 #### 📊 Data Science & AI
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-365674?style=for-the-badge&logo=seaborn&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+
+> 🧠 Specialization: Deep Learning with TensorFlow (Python) – Neural Networks, Computer Vision (CV), and AI Models
 
 #### 🖥️ Web & App Development
 
@@ -52,9 +57,7 @@
 #### 🛢️ Databases & Tools
 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ---
 
