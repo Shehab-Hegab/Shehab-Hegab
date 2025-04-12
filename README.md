@@ -2,7 +2,8 @@
 
 <h3 align="center">🚀 Passionate Machine Learning Engineer & AI Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
+<img alt="coding" width="100%" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
+
 
 <br/>
 
