@@ -17,7 +17,7 @@
 
 - 📧 Email: [shehabhegab20@gmail.com](mailto:shehabhegab20@gmail.com)
 - 📞 WhatsApp: [+201153544745](https://wa.me/201153544745?text=Hello%20I%20found%20you%20on%20GitHub)
-- 🔗 [Resume / CV](https://drive.google.com/file/d/1WCPtfQS7KXsG44OJGntsjyeq-jsYn3sZ/view?usp=sharing)
+- 🔗 [Resume / CV](https://drive.google.com/file/d/1xf0mTqJkbUIIpaHZ5njzxq_-NG9TED6L/view?usp=sharing)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shehab-hegab-5303491b7/)
 
 ---
