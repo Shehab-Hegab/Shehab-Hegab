@@ -152,14 +152,14 @@ const shehab = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shehab-hegab&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shehab-hegab&theme=radical&hide_border=true" alt="streak"/>
+<img width="48%" src="https://github-readme-stats.kazuki43z.com/api?username=shehab-hegab&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=shehab-hegab&theme=radical&hide_border=true" alt="streak"/>
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab-hegab&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="langs"/>
+<img width="40%" src="https://github-readme-stats.kazuki43z.com/api/top-langs/?username=shehab-hegab&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="langs"/>
 
 </div>
 
@@ -170,14 +170,6 @@ const shehab = {
 <a href="https://github.com/Shehab-Hegab">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehab-hegab&bg_color=0d1117&color=00D4FF&line=7B2FFF&point=FF006E&area=true&area_color=7B2FFF&hide_border=true" alt="graph" width="100%"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
 
 </div>
 
