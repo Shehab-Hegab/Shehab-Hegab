@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-hegab-5303491b7/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehabsedm@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201153544745)
-[![Resume](https://img.shields.io/badge/Resume-00D4FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1lSSnkdB6Yq236uIo1nXciWRDOOyV5vJr/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-00D4FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Shehab-Hegab/Shehab-Hegab/blob/main/Shehab_CV.pdf)
 
 </div>
 
