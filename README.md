@@ -1,167 +1,90 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--         NEXUS HOLOGRAPHIC IDENTITY HEADER                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:7B2FFF&height=220&section=header&text=Shehab%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Specialist%20%7C%20GenAI%20Architect&descSize=16&descAlignY=55&descAlign=50&gradientShape=1&rippleEffect=true" width="100%"/>
 
-<svg width="100%" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="noise">
-      <feTurbulence type="fractalNoise" baseFrequency="0.01" numOctaves="3" seed="5">
-        <animate attributeName="seed" from="1" to="80" dur="20s" repeatCount="indefinite"/>
-      </feTurbulence>
-      <feDisplacementMap in="SourceGraphic" scale="25"/>
-    </filter>
-    <linearGradient id="holo" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.8">
-        <animate attributeName="stop-color" values="#00D4FF;#7B2FFF;#FF006E;#00D4FF" dur="10s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#7B2FFF" stop-opacity="0.6">
-        <animate attributeName="stop-color" values="#7B2FFF;#FF006E;#00D4FF;#7B2FFF" dur="10s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#FF006E" stop-opacity="0.8">
-        <animate attributeName="stop-color" values="#FF006E;#00D4FF;#7B2FFF;#FF006E" dur="10s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="33%" stop-color="#00D4FF"/>
-      <stop offset="66%" stop-color="#7B2FFF"/>
-      <stop offset="100%" stop-color="#FF006E"/>
-      <animate attributeName="x1" values="-100%;100%" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0%;200%" dur="6s" repeatCount="indefinite"/>
-    </linearGradient>
-  </defs>
-  <!-- Holographic rings -->
-  <ellipse cx="450" cy="90" rx="380" ry="70" fill="none" stroke="url(#holo)" stroke-width="0.5" opacity="0.3" filter="url(#noise)">
-    <animate attributeName="ry" values="70;85;70" dur="6s" repeatCount="indefinite"/>
-  </ellipse>
-  <ellipse cx="450" cy="90" rx="320" ry="55" fill="none" stroke="url(#holo)" stroke-width="0.8" opacity="0.4" filter="url(#noise)">
-    <animate attributeName="ry" values="55;70;55" dur="8s" repeatCount="indefinite"/>
-  </ellipse>
-  <!-- Core glow -->
-  <ellipse cx="450" cy="90" rx="200" ry="40" fill="url(#holo)" opacity="0.06" filter="url(#glow)">
-    <animate attributeName="rx" values="200;230;200" dur="5s" repeatCount="indefinite"/>
-  </ellipse>
-  <!-- Name -->
-  <text x="450" y="78" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="40" font-weight="800" fill="url(#nameGrad)" filter="url(#glow)">
-    Shehab Mohamed
-  </text>
-  <!-- Title -->
-  <text x="450" y="110" text-anchor="middle" font-family="'Fira Code',monospace" font-size="15" fill="#8B949E" letter-spacing="4">
-    AI ENGINEER · ML SPECIALIST · GENAI ARCHITECT
-  </text>
-  <!-- Floating orbs -->
-  <circle cx="150" cy="40" r="2" fill="#00D4FF" opacity="0.7">
-    <animate attributeName="cy" values="40;25;40" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="750" cy="140" r="1.5" fill="#7B2FFF" opacity="0.6">
-    <animate attributeName="cy" values="140;120;140" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="300" cy="155" r="1" fill="#FF006E" opacity="0.5">
-    <animate attributeName="cy" values="155;140;155" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="600" cy="30" r="1.5" fill="#00D4FF" opacity="0.4">
-    <animate attributeName="cy" values="30;18;30" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Multi-Agent+AI+Systems+%26+RAG+Pipelines;0.14ms+P95+Latency+%7C+60%25+Faster+Deployments;HIPAA+Compliant+%7C+Production+Grade+AI)](https://git.io/typing-svg)
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=shehab-hegab&label=PROFILE+VIEWS&color=00D4FF&style=flat-square&label_color=0d1117" alt="views"/>
+[![followers](https://komarev.com/ghpvc/?username=shehab-hegab&label=PROFILE+VIEWS&color=00D4FF&style=flat-square&label_color=0d1117)](https://github.com/Shehab-Hegab)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-hegab-5303491b7/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehabsedm@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201153544745)
+[![Resume](https://img.shields.io/badge/Resume-00D4FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1lSSnkdB6Yq236uIo1nXciWRDOOyV5vJr/view?usp=sharing)
 
 </div>
 
 ---
+
+## 🧠 About Me
+
+```javascript
+const shehab = {
+  name: "Shehab Mohamed Ibrahim",
+  role: "AI & ML Engineer @ Niibu Inc 🇺🇸",
+  location: "Cairo, Egypt 🌍",
+  education: "B.Sc. Biomedical Engineering — Cairo University",
+  focus: ["Multi-Agent AI Systems", "RAG Pipelines", "LLM Orchestration"],
+  currentWork: "Building production-grade AI at Niibu Inc",
+  achievements: {
+    latency: "0.14ms P95 API latency",
+    deployment: "60% faster model deployment",
+    scale: "290K+ records processed",
+    security: "HIPAA-compliant systems"
+  },
+  languages: ["Python", "JavaScript", "C++", "C#", "Java", "Dart"],
+  coffee: true
+};
+```
+
+**📍 Cairo, Egypt → Working with teams across US, Canada & Singapore**
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-hegab-5303491b7/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shehabsedm@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201153544745)
-[![Resume](https://img.shields.io/badge/Resume-00D4FF?style=flat-square&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1lSSnkdB6Yq236uIo1nXciWRDOOyV5vJr/view?usp=sharing)
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Cloud & DevOps**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Data & Tools**
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Multi-Agent+AI+Systems+%26+RAG+Pipelines;0.14ms+P95+Latency+%7C+60%25+Faster+Deployments;HIPAA+Compliant+%7C+Production+Grade+AI" alt="typing"/>
-</a>
-
-</div>
-
----
-
-## <div align="center">🧠 About</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-> I architect **production-grade AI systems** — from multi-agent orchestration to real-time inference pipelines.
->
-> Currently building the future of AI at **Niibu Inc** 🇺🇸, where I design systems that process **290K+ records** with sub-millisecond latency.
->
-> *Cairo, Egypt → Working with teams across US, Canada & Singapore*
-
-</td>
-<td width="50%" valign="top">
-
-### Quick Facts
-
-- 🤖 **Role:** AI & ML Engineer @ Niibu Inc
-- 🏢 **Also:** MLOps @ Macrotrend · AI Solutions @ Flowmingo AI
-- 🎓 **Education:** B.Sc. Biomedical Engineering — Cairo University
-- 📧 **Contact:** shehabsedm@gmail.com
-- 🌍 **Location:** Cairo, Egypt (Remote — Global)
-
-</td>
-</tr>
-</table>
-
----
-
-## <div align="center">⚡ Skills</div>
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| **AI & Machine Learning** | **Programming** |
-| <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,scikitlearn,huggingface,langchain" alt="AI"/> | <img src="https://skillicons.dev/icons?i=python,javascript,cpp,csharp,java,dart" alt="Langs"/> |
-| **Cloud & DevOps** | **Data & Tools** |
-| <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,mlflow,terraform" alt="Cloud"/> | <img src="https://skillicons.dev/icons?i=redis,postgresql,mongodb,git,vscode,linux" alt="Tools"/> |
-
-</div>
-
----
-
-## <div align="center">📊 GitHub Analytics</div>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shehab-hegab&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=7B2FFF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shehab-hegab&theme=dark&hide_border=true&background=0d1117&stroke=00D4FF&ring=7B2FFF&fire=FF006E&currStreakLabel=00D4FF" alt="streak"/>
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab-hegab&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=C9D1D9&langs_count=6" alt="langs"/>
-
-</div>
-
----
-
-## <div align="center">💼 Experience</div>
+## 💼 Experience
 
 <table>
 <tr>
@@ -171,7 +94,7 @@
 **Niibu Inc** · New York, USA (Remote)
 `Jan 2026 → Present`
 
-- Architected **"Neural Concierge"** Multi-Agent LLM Orchestration
+- Architected **"Neural Concierge"** Multi-Agent LLM Orchestration on GCP
 - Processed **290K+ records** with XGBoost + Deep Learning
 - Achieved **0.14ms P95 latency** via gRPC + Feast + Redis
 - HIPAA compliance: WireGuard + RS256 JWT + Tenant Isolation
@@ -217,30 +140,32 @@
 
 ---
 
+## 📜 Certifications
+
+[![HuggingFace](https://img.shields.io/badge/Hugging_Face_NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/learn/nlp-course)
+[![LangChain](https://img.shields.io/badge/LangChain_LLMs-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.deeplearning.ai/)
+[![Coursera](https://img.shields.io/badge/ML_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-### 📜 Certifications
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shehab-hegab&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shehab-hegab&theme=radical&hide_border=true" alt="streak"/>
 
-[![HuggingFace](https://img.shields.io/badge/Hugging_Face_NLP-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/learn/nlp-course)
-[![LangChain](https://img.shields.io/badge/LangChain_LLMs-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://www.deeplearning.ai/)
-[![Coursera](https://img.shields.io/badge/ML_Specialization-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab-hegab&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="langs"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-<svg width="100%" height="3" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#7B2FFF" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#FF006E" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="3" rx="1.5" fill="url(#lineGrad)"/>
-</svg>
 
 <a href="https://github.com/Shehab-Hegab">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehab-hegab&bg_color=0d1117&color=00D4FF&line=7B2FFF&point=FF006E&area=true&area_color=7B2FFF&hide_border=true" alt="graph" width="100%"/>
@@ -252,27 +177,20 @@
 
 <div align="center">
 
-<!-- Neon footer -->
-<svg width="280" height="28" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="footerGlow">
-      <feGaussianBlur stdDeviation="2.5" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <text x="140" y="19" text-anchor="middle" font-family="monospace" font-size="13" fill="#00D4FF" filter="url(#footerGlow)">
-    LET'S BUILD SOMETHING
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
-  </text>
-</svg>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-hegab-5303491b7/)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehabsedm@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehab-Hegab)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
+*💡 "Building AI systems that think, react, and scale in real time."*
 
 </div>
