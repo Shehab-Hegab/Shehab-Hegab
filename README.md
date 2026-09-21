@@ -36,7 +36,7 @@ const shehab = {
 };
 ```
 
-**📍 Cairo, Egypt → Working with teams across US, Canada & Singapore**
+**📍 Cairo, Egypt → Working with teams across 🇺🇸 US · 🇨🇦 Canada · 🇸🇬 Singapore**
 
 ---
 
